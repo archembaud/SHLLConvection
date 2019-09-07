@@ -1,0 +1,26 @@
+{
+    "NX": 200,
+    "NY": 162,
+    "NZ": 38,
+    "L": 213.0,
+    "H": 173.0,
+    "W": 40.0,
+    "UNITS": "MM",
+    "SIM_TIME": 0.001,
+    "objects": [
+        {"name": "Boardmain 0 a", "body": 1, "material": "epoxy", "Q": 0.0, "x_min": 0.0, "x_max": 40.0, "y_min": 0.0, "y_max": 173.0, "z_min": 5.3, "z_max": 6.87},
+        {"name": "Boardmain 0 b", "body": 1, "material": "epoxy", "Q": 0.0, "x_min": 40.0, "x_max": 70.0, "y_min": 0.0, "y_max": 115.5, "z_min": 5.3, "z_max": 6.87},
+        {"name": "Boardmain 0 c", "body": 1, "material": "epoxy", "Q": 0.0, "x_min": 70.0, "x_max": 213.0, "y_min": 0.0, "y_max": 100.0, "z_min": 5.3, "z_max": 6.87},
+        {"name": "Boardmain 0 d", "body": 2, "material": "epoxy", "Q": 0.0, "x_min": 43.0, "x_max": 73.0, "y_min": 118.5, "y_max": 173.0, "z_min": 5.3, "z_max": 6.87},
+        {"name": "Boardmain 0 e", "body": 2, "material": "epoxy", "Q": 0.0, "x_min": 73.0, "x_max": 213.0, "y_min": 106.0, "y_max": 173.0, "z_min": 5.3, "z_max": 6.87},
+        {"name": "NULL", "body": 0, "material": "air", "Q": 0.0, "x_min": 130.0, "x_max": 141.35, "y_min": 106.0, "y_max": 111.0, "z_min": 5.3, "z_max": 6.87},
+        {"name": "NULL", "body": 0, "material": "air", "Q": 0.0, "x_min": 175.0, "x_max": 183.0, "y_min": 106.0, "y_max": 111.0, "z_min": 5.3, "z_max": 6.87},
+        {"name": "Bus", "body": 3, "material": "copper", "Q": 0.0, "x_min": 139.0, "x_max": 178.0, "y_min": 100.0, "y_max": 110.0, "z_min": 2.4, "z_max": 9.8},
+        {"name": "Case Left Side", "body": 4, "material": "steel", "Q": 0.0, "x_min": 0.0, "x_max": 1.5, "y_min": 0.0, "y_max": 173.0, "z_min": 0.0, "z_max": 40.0},
+        {"name": "Case Right Side", "body": 4, "material": "steel", "Q": 0.0, "x_min": 211.5, "x_max": 213.0, "y_min": 0.0, "y_max": 173.0, "z_min": 0.0, "z_max": 40.0},
+        {"name": "Case Front", "body": 4, "material": "steel", "Q": 0.0, "x_min": 0.0, "x_max": 213.0, "y_min": 171.5, "y_max": 173.0, "z_min": 0.0, "z_max": 40.0},
+        {"name": "Case Back", "body": 4, "material": "steel", "Q": 0.0, "x_min": 0.0, "x_max": 213.0, "y_min": 0.0, "y_max": 1.5, "z_min": 0.0, "z_max": 40.0},
+        {"name": "Case Bottom", "body": 4, "material": "steel", "Q": 0.0, "x_min": 0.0, "x_max": 213.0, "y_min": 0.0, "y_max": 173.0, "z_min": 0.0, "z_max": 1.5},
+        {"name": "Case Top", "body": 4, "material": "steel", "Q": 0.0, "x_min": 0.0, "x_max": 213.0, "y_min": 0.0, "y_max": 173.0, "z_min": 0.0, "z_max": 1.5}
+        ]
+}
